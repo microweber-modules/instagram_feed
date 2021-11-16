@@ -9,4 +9,4 @@ $config['author_website'] = "https://www.plumtex.com";
 $config['ui'] = true;
 $config['categories'] = "social";
 $config['position'] = 13;
-$config['version'] = 0.01;
+$config['version'] = 0.2;
